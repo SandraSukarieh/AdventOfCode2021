@@ -1,6 +1,4 @@
 from pathlib import Path
-import copy
-from deepdiff import DeepDiff
 
 
 class Cell:
